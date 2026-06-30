@@ -1,0 +1,1 @@
+This project is for educational and research purposes only. It is designed to help security auditors and defenders understand EDR detection mechanisms and evaluate their organization's security posture. The author assumes no liability for any misuse or damage caused by this software.
