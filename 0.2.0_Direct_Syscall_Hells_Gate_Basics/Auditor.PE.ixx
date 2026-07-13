@@ -1,5 +1,5 @@
 /*
-1. GetProcAddress에서 EAT 수동 파싱으로 수정
+1. GetProcAddress에서 EAT 수동 파싱으로 수정 
 IMAGE_EXPORT_DIRECTORY 구조체를 파싱하여 함수의 이름 배열(AddressOfNames)을 루프로 직접 돌리며 원하는 함수의 오프셋 주소를 찾아내도록 클래스 수정.
 
 2. 문자열 흔적 지우기
